@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "242995992656",
+    "firebase_url": "https://friendlychat-7ea5a.firebaseio.com",
+    "project_id": "friendlychat-7ea5a",
+    "storage_bucket": "friendlychat-7ea5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242995992656:android:cc69240a44c36e89df9955",
+        "android_client_info": {
+          "package_name": "com.example.firebase20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242995992656-j07u9bl4adr0uav008lfc3ecvv367abi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCnZQtrWsfiAWAsRA5YmN03TqhZF12_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242995992656-j07u9bl4adr0uav008lfc3ecvv367abi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242995992656:android:299e064f97d79cb5df9955",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242995992656-d3atb6lvqdgl17e292mujuvjq4ma2gsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "0ceec1f86706a696c787905c58c5d9ff170bb63f"
+          }
+        },
+        {
+          "client_id": "242995992656-j07u9bl4adr0uav008lfc3ecvv367abi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCnZQtrWsfiAWAsRA5YmN03TqhZF12_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242995992656-j07u9bl4adr0uav008lfc3ecvv367abi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
